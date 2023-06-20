@@ -1,0 +1,9 @@
+git clone url - for connect 
+
+git add .
+git commit -am"save 1"
+git push
+
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
